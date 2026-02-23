@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Tom 👋
+
+I've been working from a GitHub account tied to my school email for months now, and it's made me realize I need to get my personal GitHub up and running.
+I'll be fleshing this out as best I can as time goes on, so for the time being, here's a quick... thing, about me!
+
+- 🔭 I’m currently working on changing my career path to what I should've stuck with when I left high school, software development.
+- 🌱 I’m currently learning... outside of my re-educaton, Linux (my only OS for the last 2 years, including schooling), virtual machines/containers, Git/GitHub, NeoVim configuration... A lot more, that's just the tip of the iceburg from what I've been learning on my own lately.
+
+I've always played around with programming as a side-interest, but struggled to make anything from it. I realize now that it was because I never actually tried to build anything start-to-finish on my own. Going back to a structured curriculum will not only push me into fully commiting to this change in career, but equip me with industry skills not directly tied to coding that is vital to any projects success.
 
 <!--
 **TomAMills/tomamills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
